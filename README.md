@@ -1,6 +1,6 @@
 My third task as intern in PRODIGY INFOTECH.
 
-TAsk about: Build a tool that assesses the strength of a password based on criteria such as length, presence of uppercase and lowercase, numbers, and special characters. Provide feedback to users on the password's strength. Develop a password complexity checker using python programming language.
+Task about: Build a tool that assesses the strength of a password based on criteria such as length, presence of uppercase and lowercase, numbers, and special characters. Provide feedback to users on the password's strength. Develop a password complexity checker using python programming language.
 
 **Features**
 
